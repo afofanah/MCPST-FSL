@@ -281,13 +281,14 @@ If you use this code in your research, please cite:
 @ARTICLE{11552613,
   author={Fofanah, Abdul Joseph and Wen, Lian and Chen, David},
   journal={IEEE Internet of Things Journal}, 
-  title={MCPST: A Multi-Phase Consensus and Spatio-Temporal Learning for Few-Shot Traffic Forecasting via Physical Dynamics}, 
+  title={MCPST: A Multiphase Consensus and Spatio–Temporal Learning for Few-Shot Traffic Forecasting via Physical Dynamics}, 
   year={2026},
-  volume={},
-  number={},
-  pages={1-1},
-  keywords={Synchronization;Modeling;Fluid flow;Metalearning;Forecasting;Learning (artificial intelligence);Urban areas;Propagation;Transformers;Ranking (statistics);Few-Shot Learning;Traffic Forecasting;Multi-Phase Consensus;Spatio-Temporal Forecasting;Diffusion-Synchronisation Dynamics;Meta-Learning Adaptation},
+  volume={13},
+  number={16},
+  pages={36234-36254},
+  keywords={Synchronization;Modeling;Fluid flow;Metalearning;Forecasting;Learning (artificial intelligence);Urban areas;Propagation;Transformers;Ranking (statistics);Diffusion-synchronization dynamics;few-shot learning;meta-learning adaptation;multiphase consensus;spatio–temporal forecasting;traffic forecasting},
   doi={10.1109/JIOT.2026.3700641}}
+
 
 ```
 
